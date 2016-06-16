@@ -6,4 +6,4 @@ We hope to create a functioning website holding all of HKIS's APAC media, includ
 
 Furthermore, we are creating a phone app that shows live scores of the games being played at HKIS. See other respository (still WIP)
 
-Link to site: pax3l.github.io/HKIS-APAC-Website/index.html
+Link: http://pax3l.github.io/HKIS-APAC-Website/index.html
